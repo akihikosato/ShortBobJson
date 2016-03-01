@@ -5,10 +5,10 @@
 	"listImageUrl" :"https://github.com/akihikosato/Catalog_image/blob/master/App_Rsc_Full/Button_Img/%d/btn%d.png",
 	"styleInfo" : {
 		"short" : {
-			"styleNum" : "28"
+			"styleNum" : 28
 		},
 		"bob" : {
-			"styleNum" : "23"
+			"styleNum" : 23
 		}
 	}
 }
