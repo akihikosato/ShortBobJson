@@ -3,7 +3,7 @@
 	"inReview" : "true",
 	"storeUrl" : "https://itunes.apple.com/jp/app/heakatarogu/id1050538518?mt=8",
 	"listImageUrl" : "https://raw.githubusercontent.com/akihikosato/Catalog_image/master/App_Rsc_Full/Button_Img/%d/btn%d.png",
-	"styleNum" : [28, 23],
+    "styleImageURL": "https://raw.githubusercontent.com/akihikosato/Catalog_image/master/App_Rsc/Style_Img/%d/%d_%d.jpg",
 	"styleInfo": {
 		"short" : {
 			"0_0": "透明感を感じさせながらも、クールな印象のショートボブスタイルです。カットのベースはやや重めに、マッシュボブをベースにカットしています。重めのスタイルに、ミルクベージュのカラーで抜け感を出す事が垢抜けのポイントです。",
